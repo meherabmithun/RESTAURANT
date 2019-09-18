@@ -1,0 +1,591 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.h_logo {
+    font-size: 23px;
+}
+.nav_t {
+    padding: 2px 5px;
+}
+.menu ul li a {
+    font-size: 22px;
+    margin-top: 5px;
+}
+/*slider start*/
+.c_content {
+    margin: 45px 0;
+}
+.h3 {
+    font-size: 60px;
+    padding-top: 35px;
+}
+.h1 {
+    font-size: 25px;
+}
+.btn_c {
+    font-size: 16px;
+    margin: 15px 0 35px 0;
+}
+.car_in {
+    bottom: -9px;
+}
+.car_in li {
+    width: 12px;
+    height: 12px;
+}
+/*slider end*/
+/*header end*/
+/*traditional flavours start*/
+.common_padding {
+    padding: 25px 0;
+}
+.tf_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.common_p {
+    font-size: 19px;
+    margin-top: 10px;
+    line-height: 25px;
+}
+/*traditional flavours end*/
+/*new taste start*/
+.taste_content {
+    text-align: center;
+}
+.newtaste_p{
+	margin-top: 10px;
+}
+/*new taste end*/
+/*food start*/
+.bg_none {
+    background-image: none;
+    background-color: #fff;
+}
+.f_content{
+	padding: 0;
+}
+.food_text {
+    padding: 20.5px 22px;
+}
+.s1_mr {
+    border-top: 1px solid #2A3B40;
+    margin-top: 0;
+}
+.common_h3 {
+    font-size: 60px;
+}
+.common_h1 {
+    font-size: 36px;
+}
+/*hover start*/
+.food_hover .title {
+    padding: 36px 0 10px;
+}
+/*hover end*/
+/*food end*/
+/*cuisine start*/
+.cu_p {
+    font-size: 16px;
+    margin: 10px 0 0;
+    line-height: 26px;
+}
+.icon_ul {
+    margin-bottom: 0;
+}
+.icon_ul li {
+    font-size: 17px;
+}
+.menu_ul li a {
+    padding: 2px 5px;
+}
+/*cuisine end*/
+/*new menu start*/
+.nmp {
+    padding: 15px 0 15px;
+}
+.menuicon_content {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 15px;
+}
+.new_p {
+    margin-top: 10px;
+    padding-right: 0;
+}
+/*new menu end*/
+/*background img start*/
+.background_img {
+    padding: 131px 0;
+}
+/*background img end*/
+/*booking start*/
+.book_fc {
+    margin-bottom: 15px;
+}
+.btn_fc {
+    width: 50%;
+    margin: 30px 25% 0;
+}
+/*booking end*/
+/*discover start*/
+.discover_content {
+    padding: 0;
+}
+.d_h1 {
+    font-size: 34px;
+}
+.card {
+    margin-top: 15px;
+}
+/*discover end*/
+/*md start*/
+.md_h3 {
+    font-size: 35px;
+}
+.md_p {
+    font-size: 16px;
+}
+/*md end*/
+/*about us start*/
+.about_us {
+    padding: 75px 0;
+}
+.abml {
+    margin-left: 0;
+}
+.about_ul li a {
+    font-size: 17px;
+    padding: 5px 9px;
+}
+.open_hours {
+    text-align: center;
+}
+.contact_content {
+    text-align: center;
+}
+/*about us end*/
+/*address start*/
+.map {
+    padding: 30px 0 15px;
+}
+.add_p {
+    font-size: 15px !important;
+    margin: 0 !important;
+}
+/*address end*/
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+.h_logo {
+    font-size: 26px;
+}
+.menu ul li a {
+    font-size: 24px;
+    margin: 4px 0;
+}
+/*slider start*/
+.c_content {
+    margin: 70px 0;
+}
+.h3 {
+    font-size: 70px;
+    padding-top: 60px;
+}
+.h1 {
+    font-size: 36px;
+}
+.btn_c {
+    font-size: 22px;
+    margin: 15px 0 60px 0;
+}
+.car_in {
+    bottom: 0px;
+}
+.car_in li {
+    width: 15px;
+    height: 15px;
+}
+/*slider end*/
+/*header end*/
+/*traditional flavours start*/
+.common_padding {
+    padding: 35px 0;
+}
+.tf_text {
+    margin-top: 30px;
+    text-align: center;
+}
+.common_p {
+    font-size: 17px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+/*traditional flavours end*/
+/*new taste start*/
+.taste_content {
+    text-align: center;
+    margin-top: 20px;
+}
+.newtaste_p {
+    margin: 20px 0 0;
+}
+/*new taste end*/
+/*food item start*/
+.common_h3 {
+    font-size: 70px;
+}
+.common_h1 {
+    font-size: 40px;
+}
+.f_height {
+    height: 273px;
+}
+/*hover start*/
+.food_hover .title {
+    padding: 24px 0 10px;
+}
+/*hover end*/
+.food_text {
+    padding: 45.4px 22px;
+}
+/*food item end*/  
+/*cuisine start*/
+.cu_p {
+    font-size: 16px;
+    margin: 10px 0 0;
+    line-height: 26px;
+}
+.icon_ul {
+    margin-bottom: 0;
+}
+.icon_ul li {
+    font-size: 17px;
+}
+.menu_ul li a {
+    font-size: 16px;
+    padding: 5px 15px;
+}
+/*cuisine end*/
+/*new menu start*/
+.nmp {
+    padding-bottom: 20px;
+}
+.menuicon_content {
+    padding: 15px 0 10px;
+    text-align: center;
+}
+.new_p {
+    padding-right: 0px;
+    margin-top: 0;
+}
+/*new menu end*/
+/*background img start*/
+.background_img {
+    padding: 190px 0;
+}
+/*background img end*/
+/*booking start*/
+label {
+    margin: 0 10%;
+}
+.book_fc {
+    width: 80%;
+    margin: 0 10% 20px;
+}
+.btn_fc {
+    width: 40%;
+    margin: 40px 30% 0;
+}
+/*booking end*/
+/*discover start*/
+.discover_content {
+    padding: 0;
+}
+.card {
+    margin-top: 25px;
+}
+/*discover end*/
+/*about us start*/
+.about_us {
+    padding: 80px 0;
+}
+.abml {
+    margin-left: 0;
+}
+.open_hours {
+    text-align: center;
+}
+.open_h3 {
+    font-size: 29px;
+}
+.contact_content {
+    text-align: center;
+}
+/*about us end*/
+/*map start*/
+.map {
+    padding: 20px 0 15px;
+}
+/*map end*/
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    font-size: 26px;
+    margin: 4px;
+}
+/*slider start*/
+.c_content {
+    margin: 70px 0;
+}
+.h3 {
+    font-size: 70px;
+    padding-top: 60px;
+}
+.h1 {
+    font-size: 36px;
+}
+.btn_c {
+    font-size: 22px;
+    margin: 15px 0 60px 0;
+}
+.car_in {
+    bottom: 0px;
+}
+.car_in li {
+    width: 15px;
+    height: 15px;
+}
+/*slider end*/
+/*header end*/
+/*traditional flavours start*/
+.common_padding {
+    padding: 40px 0;
+}
+.tf_text {
+    margin-top: 10px;
+}
+.common_h2 {
+    font-size: 24px;
+}
+.common_p {
+    font-size: 17px;
+    margin-top: 24px;
+    line-height: 30px;
+}
+/*traditional flavours end*/
+/*new taste start*/
+.taste_content {
+    text-align: center;
+}
+.newtaste_p {
+    margin: 20px 0 0;
+}
+/*new taste end*/
+/*food item start*/
+.common_h3 {
+    font-size: 70px;
+}
+.common_h1 {
+    font-size: 40px;
+}
+.f_height {
+    height: 183px;
+}
+/*hover start*/
+.food_hover{
+    margin-bottom:20px;
+}
+.food_hover .title {
+    font-size: 26px;
+    padding: 13px 0 10px;
+}
+/*hover end*/
+.food_text {
+    padding: 11.7px 0;
+}
+.common_h4 {
+    font-size: 18px;
+}
+.mt_p {
+    margin-top: 10px;
+}
+/*food item end*/
+/*cuisine start*/
+.cu_p {
+    font-size: 16px;
+    margin: 10px 0 0;
+    line-height: 26px;
+}
+.icon_ul {
+    margin-bottom: 0;
+}
+.icon_ul li {
+    font-size: 17px;
+}
+.menu_ul li a {
+    font-size: 16px;
+    padding: 5px 15px;
+}
+/*cuisine end*/
+/*new menu start*/
+.menuicon_content {
+    padding-bottom: 30px;
+}
+.new_p {
+    margin-top: 10px;
+    padding-right: 4px;
+}
+/*new menu end*/
+/*background img start*/
+.background_img {
+    padding: 236.5px 0;
+}
+/*background img end*/
+/*booking srtart*/
+.book_fc {
+    margin-bottom: 25px;
+}
+/*booking end*/
+/*discover start*/
+.discover_content {
+    padding: 0 0 20px;
+}
+.card-title {
+    font-size: 18px;
+}
+.sm_heading {
+    margin-bottom: 10px;
+}
+.card-text {
+    font-size: 16px;
+}
+.btn_custom {
+    margin: 0;
+}
+/*discover end*/
+/*expart chef start*/
+.chef_h3 {
+    margin-top: 80px;
+}
+.icon{
+	top: 57%;
+	left: 38%;
+}
+/*expart chef end*/
+/*about us start*/
+.about_us {
+    padding: 90px 0;
+}
+.open_hours {
+    text-align: center;
+}
+.open_h3 {
+    font-size: 29px;
+}
+/*about us end*/
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a {
+    font-size: 26px;
+}
+/*slider start*/
+.h1 {
+    font-size: 50px;
+}
+/*slider end*/
+/*header end*/
+/*new taste start*/
+.newtaste_p {
+    margin: 20px 0 0;
+}
+/*new taste end*/
+/*food item start*/
+/*hover start*/
+.food_hover .title {
+    padding: 18px 0 10px;
+}
+/*hover end*/
+.food_text {
+    padding: 30.2px 0;
+}
+/*food item end*/
+/*cuisine start*/
+.common_padding {
+    padding: 70px 0;
+}
+.cu_p {
+    font-size: 16px;
+    margin: 10px 0 0;
+    line-height: 26px;
+}
+.icon_ul {
+    margin-bottom: 0;
+}
+.icon_ul li {
+    font-size: 17px;
+}
+/*cuisine end*/
+/*new menu start*/
+.new_p {
+    padding-right: 50px;
+}
+/*new menu end*/
+/*background img start*/
+.background_img {
+    padding: 312.5px 0;
+}
+/*background img end*/
+/*expart chef start*/
+.chef_h3 {
+    margin-top: 38px;
+}
+.icon{
+    left: 31%;
+}
+/*expart chef end*/
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+/*traditional flavours start*/
+.tf_text{
+    margin-top: 85px;
+}
+/*traditional flavours end*/
+/*new taste start*/
+.common_ul li {
+    font-size: 30px;
+}
+.common_tp {
+    font-size: 17px;
+}
+/*new taste end*/
+/*food item start*/
+.food_hover .title {
+    padding: 25px 0 10px;
+}
+/*food item end*/
+/*new menu start*/
+.new_p {
+    padding-right: 106px;
+}
+/*new menu end*/
+/*expart chef start*/
+.chef_p {
+    font-size: 16px;
+}
+/*expart chef end*/
+/*map start*/
+.map{
+    padding-top: 100px;
+}
+.add {
+    margin-top: 90px;
+}
+/*map end*/
+}
